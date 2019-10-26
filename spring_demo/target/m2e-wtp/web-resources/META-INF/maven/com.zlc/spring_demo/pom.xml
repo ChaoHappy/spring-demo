@@ -50,6 +50,7 @@
     	<artifactId>spring-web</artifactId>
     	<version>${spring.version}</version>
     </dependency>
+    
   </dependencies>
   <build>
     <finalName>spring_aop_demo</finalName>
